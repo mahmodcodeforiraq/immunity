@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "891742188277",
+    "firebase_url": "https://immunitybox-c2116.firebaseio.com",
+    "project_id": "immunitybox-c2116",
+    "storage_bucket": "immunitybox-c2116.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891742188277:android:29c898026d3ebaa609cbbc",
+        "android_client_info": {
+          "package_name": "com.coi.Immunity_Box"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891742188277-qirhopr0n353if3a0aisn6la50709i2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOCVZWwA27KnuPtHu4YQeoZ2G7gre5K24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891742188277-qirhopr0n353if3a0aisn6la50709i2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
